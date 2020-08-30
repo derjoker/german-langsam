@@ -18,6 +18,7 @@ do
     *.txt) file=$f ;;
     *.mp3) mp3=$f ;;
     *.jpg) jpgs+=($f) ;;
+    *.jpeg) jpgs+=($f) ;;
   esac
 done
 
