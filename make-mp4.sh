@@ -37,6 +37,7 @@ do
     duration=`echo "$time" - "$a" | bc -l`
     echo "file $fd/${jpgs[$i]}" >> input
     echo "duration ${duration}" >> input
+    echo "file $fd/${jpgs[$i]}" >> input
     ((i+=1))
   fi
   a=${time}
