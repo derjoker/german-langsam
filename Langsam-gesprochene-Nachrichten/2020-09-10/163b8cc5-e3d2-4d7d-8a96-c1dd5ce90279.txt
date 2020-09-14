@@ -1,0 +1,74 @@
+[
+  {
+    "indexNum" : 0,
+    "BTime" : 17.465192794799805,
+    "content" : "9.10",
+    "itemID" : "1DB4677E-CD6D-4F5D-A189-B706569532E3",
+    "ATime" : 0.0099999997764825821,
+    "favor" : false
+  },
+  {
+    "indexNum" : 1,
+    "BTime" : 81.459999084472656,
+    "content" : "",
+    "itemID" : "C011A09E-B57E-4E85-8DA6-348EBEA49BF6",
+    "ATime" : 17.520000457763672,
+    "favor" : false
+  },
+  {
+    "indexNum" : 2,
+    "BTime" : 146.05000305175781,
+    "content" : "",
+    "itemID" : "24C8A354-143F-4C3D-8E24-B933B8AB71D4",
+    "ATime" : 81.496620178222656,
+    "favor" : true
+  },
+  {
+    "indexNum" : 3,
+    "BTime" : 216.19999694824219,
+    "content" : "",
+    "itemID" : "0A42050D-4163-4986-B1D2-2BFD22748FCF",
+    "ATime" : 146.21176147460938,
+    "favor" : true
+  },
+  {
+    "indexNum" : 4,
+    "BTime" : 281.54998779296875,
+    "content" : "",
+    "itemID" : "0FB5F696-A2DE-414A-ABB9-2C20509F3368",
+    "ATime" : 216.3118896484375,
+    "favor" : true
+  },
+  {
+    "indexNum" : 5,
+    "BTime" : 346.6400146484375,
+    "content" : "",
+    "itemID" : "CB7C306B-EEC2-4CFC-9E23-35F49E187F8D",
+    "ATime" : 281.69833374023438,
+    "favor" : true
+  },
+  {
+    "indexNum" : 6,
+    "BTime" : 408.54000854492188,
+    "content" : "",
+    "itemID" : "1D91B107-17A1-415C-BA62-352DFC3D40C1",
+    "ATime" : 346.86874389648438,
+    "favor" : true
+  },
+  {
+    "indexNum" : 7,
+    "BTime" : 472.57000732421875,
+    "content" : "",
+    "itemID" : "D06CA5DA-627B-4664-9988-C2F3DADD1EAD",
+    "ATime" : 408.68267822265625,
+    "favor" : true
+  },
+  {
+    "indexNum" : 8,
+    "BTime" : 486.26803588867188,
+    "content" : "",
+    "itemID" : "E4AD7AEB-A6CA-4B02-ABB7-488F1A5C7D4E",
+    "ATime" : 472.97882080078125,
+    "favor" : true
+  }
+]
